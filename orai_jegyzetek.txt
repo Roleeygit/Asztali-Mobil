@@ -12,3 +12,6 @@ adaba/
    |App-java
 
 xampp
+
+szükség van egy java database connectivity
+JDBC mariadb
