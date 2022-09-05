@@ -1,0 +1,14 @@
+------------09.05------------
+
+
+github.com/oktat/tan
+
+
+
+Adatbázis elérés__
+
+adaba/
+ |-src/
+   |App-java
+
+xampp
